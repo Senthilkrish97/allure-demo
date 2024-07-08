@@ -1,0 +1,21 @@
+[ {
+  "uid" : "c259e942190fbe4f",
+  "name" : "failMethod",
+  "time" : {
+    "start" : 1720434362664,
+    "stop" : 1720434372041,
+    "duration" : 9377
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ceaca696a688fe2",
+  "name" : "passMethod",
+  "time" : {
+    "start" : 1720434372061,
+    "stop" : 1720434372062,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

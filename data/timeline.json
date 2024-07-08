@@ -1,0 +1,47 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "aximsoft0010",
+    "children" : [ {
+      "name" : "27852@aximsoft0010.TestNG(13)",
+      "children" : [ {
+        "name" : "passMethod",
+        "uid" : "6ceaca696a688fe2",
+        "parentUid" : "c70a41d48472c126da6a6989d537db6e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720434372061,
+          "stop" : 1720434372062,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "failMethod",
+        "uid" : "c259e942190fbe4f",
+        "parentUid" : "c70a41d48472c126da6a6989d537db6e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720434362664,
+          "stop" : 1720434372041,
+          "duration" : 9377
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c70a41d48472c126da6a6989d537db6e"
+    } ],
+    "uid" : "7df24f39f045b321e5fdf515aec978d8"
+  } ]
+}

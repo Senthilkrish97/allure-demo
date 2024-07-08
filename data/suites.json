@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestAllureMethods",
+    "children" : [ {
+      "name" : "TestAllureMethods",
+      "children" : [ {
+        "name" : "com.xtime.automation.asr4.inspect.test.TestAllureMethods",
+        "children" : [ {
+          "name" : "failMethod",
+          "uid" : "c259e942190fbe4f",
+          "parentUid" : "50992c15bc20cbbd943dfa4debaf15e7",
+          "status" : "failed",
+          "time" : {
+            "start" : 1720434362664,
+            "stop" : 1720434372041,
+            "duration" : 9377
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "passMethod",
+          "uid" : "6ceaca696a688fe2",
+          "parentUid" : "50992c15bc20cbbd943dfa4debaf15e7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720434372061,
+            "stop" : 1720434372062,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "50992c15bc20cbbd943dfa4debaf15e7"
+      } ],
+      "uid" : "4d7c74f8004b76810c9d58377bc5b259"
+    } ],
+    "uid" : "79d6445c5a37e343768914a8d6fe821b"
+  } ]
+}

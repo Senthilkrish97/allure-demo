@@ -1,0 +1,41 @@
+{
+  "9ca9576eba79176f45c54c7763fe6e0b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c259e942190fbe4f",
+      "status" : "failed",
+      "statusDetails" : "Failed to login expected [true] but found [false]",
+      "time" : {
+        "start" : 1720434362664,
+        "stop" : 1720434372041,
+        "duration" : 9377
+      }
+    } ]
+  },
+  "b6310e8cc0444401767c2445a0866745" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ceaca696a688fe2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720434372061,
+        "stop" : 1720434372062,
+        "duration" : 1
+      }
+    } ]
+  }
+}

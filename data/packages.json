@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.xtime.automation.asr4.inspect.test.TestAllureMethods",
+    "children" : [ {
+      "name" : "failMethod",
+      "uid" : "c259e942190fbe4f",
+      "parentUid" : "6c0c2c5251921bd02c5204f14b9dd9d0",
+      "status" : "failed",
+      "time" : {
+        "start" : 1720434362664,
+        "stop" : 1720434372041,
+        "duration" : 9377
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "passMethod",
+      "uid" : "6ceaca696a688fe2",
+      "parentUid" : "6c0c2c5251921bd02c5204f14b9dd9d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720434372061,
+        "stop" : 1720434372062,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.xtime.automation.asr4.inspect.test.TestAllureMethods"
+  } ]
+}
