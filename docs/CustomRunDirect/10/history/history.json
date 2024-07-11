@@ -1,0 +1,118 @@
+{
+  "cb079ef17792caaba78c99527f59b871" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6562764f7b750456",
+      "status" : "failed",
+      "statusDetails" : "Failed to login expected [true] but found [false]",
+      "time" : {
+        "start" : 1720697837975,
+        "stop" : 1720697843243,
+        "duration" : 5268
+      }
+    } ]
+  },
+  "7b84885ccbcb9a2ce908fe29aab5c062" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d64a07ecfeb9b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720697843274,
+        "stop" : 1720697843276,
+        "duration" : 2
+      }
+    } ]
+  },
+  "c338c786ebd5c74d481b038383f9f029" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f9a8ca36e2f6e661",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1720697843456,
+        "stop" : 1720697843456,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cc91407975ae6f66e7dcdcc3d971aa90" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a12912bee576ca5",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1720697821958,
+        "stop" : 1720697821958,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9ca9576eba79176f45c54c7763fe6e0b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9378c097a120cf5e",
+      "status" : "failed",
+      "statusDetails" : "Failed to login expected [true] but found [false]",
+      "time" : {
+        "start" : 1720697813960,
+        "stop" : 1720697821735,
+        "duration" : 7775
+      }
+    } ]
+  },
+  "b6310e8cc0444401767c2445a0866745" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5055f29058768",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720697821749,
+        "stop" : 1720697821750,
+        "duration" : 1
+      }
+    } ]
+  }
+}

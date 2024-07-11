@@ -1,0 +1,131 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestAllureMethods",
+    "children" : [ {
+      "name" : "TestAllureMethods",
+      "children" : [ {
+        "name" : "com.xtime.automation.asr4.inspect.test.TestAllureMethods",
+        "children" : [ {
+          "name" : "failMethod",
+          "uid" : "9378c097a120cf5e",
+          "parentUid" : "50992c15bc20cbbd943dfa4debaf15e7",
+          "status" : "failed",
+          "time" : {
+            "start" : 1720697813960,
+            "stop" : 1720697821735,
+            "duration" : 7775
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "passMethod",
+          "uid" : "c5055f29058768",
+          "parentUid" : "50992c15bc20cbbd943dfa4debaf15e7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720697821749,
+            "stop" : 1720697821750,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "skipMethod",
+          "uid" : "2a12912bee576ca5",
+          "parentUid" : "50992c15bc20cbbd943dfa4debaf15e7",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1720697821958,
+            "stop" : 1720697821958,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "50992c15bc20cbbd943dfa4debaf15e7"
+      } ],
+      "uid" : "4d7c74f8004b76810c9d58377bc5b259"
+    } ],
+    "uid" : "79d6445c5a37e343768914a8d6fe821b"
+  }, {
+    "name" : "TestAllureMethods1",
+    "children" : [ {
+      "name" : "TestAllureMethods1",
+      "children" : [ {
+        "name" : "com.xtime.automation.asr4.inspect.test.TestAllureMethods1",
+        "children" : [ {
+          "name" : "failMethod1",
+          "uid" : "6562764f7b750456",
+          "parentUid" : "2253b6fa2de4af7480c11542e79e92cd",
+          "status" : "failed",
+          "time" : {
+            "start" : 1720697837975,
+            "stop" : 1720697843243,
+            "duration" : 5268
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "passMethod1",
+          "uid" : "7d64a07ecfeb9b5",
+          "parentUid" : "2253b6fa2de4af7480c11542e79e92cd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1720697843274,
+            "stop" : 1720697843276,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "skipMethod1",
+          "uid" : "f9a8ca36e2f6e661",
+          "parentUid" : "2253b6fa2de4af7480c11542e79e92cd",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1720697843456,
+            "stop" : 1720697843456,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2253b6fa2de4af7480c11542e79e92cd"
+      } ],
+      "uid" : "3584d5b81c68f8855de518ec6f250108"
+    } ],
+    "uid" : "016a914fe7c7bfca1ba9586961df2aa2"
+  } ]
+}

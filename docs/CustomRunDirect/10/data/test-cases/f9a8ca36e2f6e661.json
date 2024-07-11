@@ -1,0 +1,186 @@
+{
+  "uid" : "f9a8ca36e2f6e661",
+  "name" : "skipMethod1",
+  "fullName" : "com.xtime.automation.asr4.inspect.test.TestAllureMethods1.skipMethod1",
+  "historyId" : "c338c786ebd5c74d481b038383f9f029",
+  "time" : {
+    "start" : 1720697843456,
+    "stop" : 1720697843456,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1720697835219
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1720697835222,
+      "stop" : 1720697835227,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setupSelenium",
+    "time" : {
+      "start" : 1720697835250
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setupSelenium",
+    "time" : {
+      "start" : 1720697835250,
+      "stop" : 1720697837742,
+      "duration" : 2492
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "closeSelenium",
+    "time" : {
+      "start" : 1720697843458
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "closeSelenium",
+    "time" : {
+      "start" : 1720697843458,
+      "stop" : 1720697844662,
+      "duration" : 1204
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "cease",
+    "time" : {
+      "start" : 1720697844672
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "cease",
+    "time" : {
+      "start" : 1720697844672,
+      "stop" : 1720697844672,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.xtime.automation.asr4.inspect.test.TestAllureMethods1"
+  }, {
+    "name" : "testClass",
+    "value" : "com.xtime.automation.asr4.inspect.test.TestAllureMethods1"
+  }, {
+    "name" : "testMethod",
+    "value" : "skipMethod1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestAllureMethods1"
+  }, {
+    "name" : "suite",
+    "value" : "TestAllureMethods1"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.xtime.automation.asr4.inspect.test.TestAllureMethods1"
+  }, {
+    "name" : "host",
+    "value" : "aximsoft0010"
+  }, {
+    "name" : "thread",
+    "value" : "22040@aximsoft0010.TestNG(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9a8ca36e2f6e661.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,119 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "aximsoft0010",
+    "children" : [ {
+      "name" : "4100@aximsoft0010.TestNG(13)",
+      "children" : [ {
+        "name" : "failMethod",
+        "uid" : "9378c097a120cf5e",
+        "parentUid" : "3b1ee9c229d223b0a729ca7f6e79b2ac",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720697813960,
+          "stop" : 1720697821735,
+          "duration" : 7775
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "skipMethod",
+        "uid" : "2a12912bee576ca5",
+        "parentUid" : "3b1ee9c229d223b0a729ca7f6e79b2ac",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720697821958,
+          "stop" : 1720697821958,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "passMethod",
+        "uid" : "c5055f29058768",
+        "parentUid" : "3b1ee9c229d223b0a729ca7f6e79b2ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720697821749,
+          "stop" : 1720697821750,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3b1ee9c229d223b0a729ca7f6e79b2ac"
+    }, {
+      "name" : "22040@aximsoft0010.TestNG(13)",
+      "children" : [ {
+        "name" : "failMethod1",
+        "uid" : "6562764f7b750456",
+        "parentUid" : "e799eaf733df81fc2c4ccb7b2ac2c663",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720697837975,
+          "stop" : 1720697843243,
+          "duration" : 5268
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "skipMethod1",
+        "uid" : "f9a8ca36e2f6e661",
+        "parentUid" : "e799eaf733df81fc2c4ccb7b2ac2c663",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720697843456,
+          "stop" : 1720697843456,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "passMethod1",
+        "uid" : "7d64a07ecfeb9b5",
+        "parentUid" : "e799eaf733df81fc2c4ccb7b2ac2c663",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720697843274,
+          "stop" : 1720697843276,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e799eaf733df81fc2c4ccb7b2ac2c663"
+    } ],
+    "uid" : "7df24f39f045b321e5fdf515aec978d8"
+  } ]
+}
