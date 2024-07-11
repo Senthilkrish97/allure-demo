@@ -1,0 +1,47 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Failed to login expected [true] but found [false]",
+      "children" : [ {
+        "name" : "failMethod",
+        "uid" : "9378c097a120cf5e",
+        "parentUid" : "2997a743a063f36ad193ef3c94025610",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720697813960,
+          "stop" : 1720697821735,
+          "duration" : 7775
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "failMethod1",
+        "uid" : "6562764f7b750456",
+        "parentUid" : "2997a743a063f36ad193ef3c94025610",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720697837975,
+          "stop" : 1720697843243,
+          "duration" : 5268
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2997a743a063f36ad193ef3c94025610"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
