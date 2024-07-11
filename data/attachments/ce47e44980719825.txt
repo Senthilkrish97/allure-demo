@@ -1,1 +1,0 @@
-failMethod failed and screenshot taken!
